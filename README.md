@@ -23,7 +23,9 @@ For using Aylien API an account needs to be created and its javascript sdk shoul
 Open the terminal and type
 
 npm install
+
 npm run build-prod
+
 npm run build-dev 
 
 And in another terminal 
