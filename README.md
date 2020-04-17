@@ -22,15 +22,15 @@ For using Aylien API an account needs to be created and its javascript sdk shoul
 
 Open the terminal and type
 
-npm install
+1. npm install
 
-npm run build-prod
+2. npm run build-prod
 
-npm run build-dev 
+3. npm run build-dev 
 
 And in another terminal 
 
-npm start
+1.npm start
 
 
 
