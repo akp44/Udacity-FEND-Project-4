@@ -1,5 +1,4 @@
-Evaluate a News Article with NLP
-
+##Evaluate a News Article with NLP
 The project used the following:
 1. Node Express
 2. Sass Styles
